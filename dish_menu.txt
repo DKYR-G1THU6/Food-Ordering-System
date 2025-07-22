@@ -1,0 +1,39 @@
+A001
+Nasi Lemak
+5.00
+A002
+Nasi Ayam
+5.00
+A003
+Nasi Goring
+5.00
+A004
+Mi Goring
+5.00
+A005
+Maggi Goreng
+5.00
+B001
+Kopi O
+2.00
+B002
+Milo
+2.00
+B003
+Air
+0.50
+B004
+Jus Oren
+5.00
+C001
+Kek Coklet
+5.00
+C002
+Kek Lapis
+3.00
+A006
+Roti Canai
+1.5
+B005
+Jus Apel
+5
